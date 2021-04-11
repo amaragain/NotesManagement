@@ -7,7 +7,7 @@ The application is build in NodeJS, Express, MySQL, Sequelize
 
 ## Setup - Before Starting
 
-Create database "**notes**". 
+Create database "**notes**". (No need to create any tables. Tables will get created automatically when the application runs for the first time.)
 
 Port "**3000**" must be free.
 
