@@ -1,6 +1,3 @@
-# NotesManagement
-A basic note management REST API application in nodeJS 
-
 # Notes Management
 ##### A basic REST API Service for managing notes
 
