@@ -11,7 +11,9 @@ Create database "**notes**". (No need to create any tables. Tables will get crea
 
 Port "**3000**" must be free.
 
-You can also change port, database details, token-secrets, etc in the "**.env**" file.
+The database details must be entered in the "**./config/config.json**" file
+
+You can also change port, token-secrets, etc in the "**.env**" file.
 
 Use the below script to install all required packages via Node Package Manager.
 
