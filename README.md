@@ -33,7 +33,7 @@ npm i jsonwebtoken --save
 npm i bcrypt --save 
 npm i app-root-path --save
 npm i helmet --save 
-npm i sequelize --save
+npm i -g sequelize-cli --save
 npm i winston --save
 npm i morgan --save  
 npm install swagger-jsdoc --save
